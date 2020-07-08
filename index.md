@@ -1,3 +1,3 @@
-## I.T. の GitHub Pages
+# I.T. の GitHub Pages
 
-[Link](https://ikegami5.github.io/github-pages)
+[GitHub Pages]](https://ikegami5.github.io/github-pages)
